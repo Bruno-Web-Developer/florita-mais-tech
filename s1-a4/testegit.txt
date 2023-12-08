@@ -1,1 +1,1 @@
-Pasta criada para teste de mudança de branch
+'Texto escrito através do terminal cat'
